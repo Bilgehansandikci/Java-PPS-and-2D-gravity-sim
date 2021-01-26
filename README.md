@@ -2,6 +2,8 @@
 
 This project is designed for simulating Primordial Sarticle Systems(PPS) and 2D gravity.
 
+run src/mainpackage/Launcher.java
+
 Controls:
 
 -Use arrow keys to move the camera.
